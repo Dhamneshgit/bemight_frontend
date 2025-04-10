@@ -21,7 +21,7 @@
                     <div class="hero-content style-one mb-50">
                       <span class="sub-heading">Best for your categories</span>
                       <h1>
-                        Exclusive Collection <br />
+                        Exclusive Collection of LINUX Automation<br />
                         in <span>Our Online</span> Store
                       </h1>
                       <p>
